@@ -1,4 +1,4 @@
-I dabble in code the way a toddler dabbles in finger painting—it's messy, but sometimes it works :D
+Still figuring out if I'm coding or just convincing my computer to do weird tricks... either way, something happens eventually!
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
