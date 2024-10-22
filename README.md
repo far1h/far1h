@@ -1,6 +1,6 @@
 I dabble in coding, where my favorite algorithm is 'trial and error'... mostly error.
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg.svg)
 <!--
 ## Hi there 👋
 
