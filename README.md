@@ -1,4 +1,4 @@
-Still figuring out if I'm coding or just convincing my computer to do weird tricks... either way, something happens eventually!
+Still figuring out if I'm coding or just convincing my computer to do weird tricks... either way, something happens eventually :D
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
