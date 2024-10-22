@@ -1,4 +1,4 @@
-I dabble in coding, where my favorite algorithm is 'trial and error'... mostly error.
+I dabble in code the way a toddler dabbles in finger painting—it's messy, but sometimes it works :D
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
