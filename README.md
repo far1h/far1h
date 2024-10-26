@@ -1,6 +1,9 @@
 Still figuring out if I'm coding or just convincing my computer to do weird tricks... either way, something happens eventually :D
 
+<!-- COUNTDOWN -->
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
 ## Hi there 👋
 
