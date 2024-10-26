@@ -32,4 +32,4 @@ jobs:
           sed -i "s|<!-- COUNTDOWN -->|Days until 2025 ends: ${{ steps.countdown.outputs.days }} \n\n Progress: ![Progress](https://progress-bar.dev/${{ steps.countdown.outputs.progress }}?width=500&color=4caf50)|g" README.md
         shell: bash
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
