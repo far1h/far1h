@@ -1,4 +1,4 @@
-Still figuring out if I'm coding or just convincing my computer to do weird tricks... either way, something happens eventually :D
+If I’m not coding, I’m missing the rush of my code working. 😅
 
 <!-- COUNTDOWN -->
 
