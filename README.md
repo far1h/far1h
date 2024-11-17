@@ -1,4 +1,4 @@
-If I’m not coding, I’m missing the rush of my code working. 😅
+If I’m not coding, I’m probably debugging my life decisions 😂
 
 <!-- COUNTDOWN -->
 
