@@ -1,5 +1,6 @@
 If I’m not coding, I’m probably debugging my life decisions 😂
 
+![View My Potfolio!](https://blogsbymo.vercel.app/portfolio)
 <!-- COUNTDOWN -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
